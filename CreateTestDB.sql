@@ -13,3 +13,14 @@ create table Student
 (
 	StudentID int primary key identity
 )
+
+/*
+	
+	Commit - bundle of changes
+	Repository/Repo - collection of files and folders
+	Fetch - asks github what latest changes are
+	Pull - pulls changes into files
+	Pull request - trying to get your changes into a repository
+
+
+*/

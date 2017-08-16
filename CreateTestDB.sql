@@ -8,6 +8,7 @@ go
 use Test
 go
 
+-- creating student table
 create table Student
 (
 	StudentID int primary key identity
